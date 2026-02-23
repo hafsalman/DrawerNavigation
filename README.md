@@ -15,9 +15,9 @@ npm install react-native-reanimated@latest
 npx react-native start --reset-cache
 ```
 
-Add the following ``` bash "@react-native-community/cli": "latest", ``` under "devDependencies" in the file "package.json" like this:
+Add the following ``` "@react-native-community/cli": "latest", ``` under "devDependencies" in the file "package.json" like this:
 
-``` bash
+```
   "devDependencies": {
     "@react-native-community/cli": "latest",
   }
