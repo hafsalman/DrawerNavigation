@@ -17,7 +17,7 @@ The app allows users to navigate between multiple screens using a side drawer me
 
 ---
 
-Dependencies Used
+## Dependencies Used
 
 ``` bash
 npm install @react-navigation/native
